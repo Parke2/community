@@ -1,0 +1,128 @@
+h1{
+color: gold;
+}
+
+h1 {
+	border-bottom: solid red thick;
+	border-width: 20px;
+	font-size: 80px; 
+}
+
+h2{
+font-size: 60px;
+color: gold;
+position: relative; 
+bottom: 150px;
+left: 200px;
+}
+
+h3{
+font-size: 30px;
+color: gold;
+position: relative; 
+bottom: 700px;
+left: 900px;
+}
+
+p {
+border: 10px solid black; 
+border-width: 20px;
+font-size: 30px;
+}
+
+body {
+	background-color:dodgerblue;
+} 
+
+.right-container{
+font-size: 45px;
+position: relative;
+bottom: 155px;
+left: 1500px
+}
+
+a{
+color: gold;
+}
+
+.icon-list{
+padding: 0;
+display: block;
+margin-bottom: 10px;
+position: relative;
+bottom: 100px;
+}
+
+.icon-list li img{
+display: block;
+width: 100px;
+height: auto;
+position: relative;
+bottom: 100px;
+}
+
+.topnav{
+ position: relative;
+  left: 800px;
+bottom: 100px;
+}
+
+.forest{
+position: relative;
+bottom: 700px;
+left: 500px;
+}
+
+.pokemon{
+position: relative;
+bottom: 950px;
+left: 800px;
+}
+
+.zombie{
+position: relative;
+bottom: 1200px;
+left: 1100px;
+}
+
+.join{
+font-size: 30px;
+color: gold;
+position: relative;
+bottom: 1100px;
+left: 500px;
+}
+
+.commissions{
+font-size: 30px;
+color: gold;
+position: relative;
+bottom: 1395px;
+left: 850px;
+}
+
+.businesses{
+font-size: 30px;
+color: gold;
+position: relative;
+bottom: 1685px;
+left: 1200px;
+}
+
+.group{
+position: relative;
+bottom: 30px;
+right: 45px;
+}
+
+.commission{
+position: relative;
+top: 20px;
+right: 45px;
+}
+
+.business{
+position: relative;
+top: 20px;
+right: 45px;
+}
